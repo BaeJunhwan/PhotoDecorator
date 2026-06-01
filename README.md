@@ -21,6 +21,7 @@
 ```bash
 make
 ./editor_exe sogang.png out.png
+```
 
 ## What I learned
 
